@@ -1,0 +1,13 @@
+
+.calculator-button{
+    width: 25%;
+    height: 15%;
+    font-size: 2rem;
+    margin-top: 0;
+    border-radius: 50%;
+
+}
+
+.calculator-button:hover{
+    background-color: red;
+}
